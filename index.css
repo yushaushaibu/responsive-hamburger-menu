@@ -72,7 +72,7 @@ a {
     .hamburger.active .bar:nth-child(1) {
         transform: translateY(8px) rotate(45deg);
     }
-    .hamburger.active .bar:nth-child(1) {
+    .hamburger.active .bar:nth-child(3) {
         transform: translateY(-8px) rotate(-45deg);
     }
     
@@ -93,7 +93,7 @@ a {
         left: 0;
     }
 
-    .nav-link {
+    .nav-item {
         margin: 16px 0;
     }
 }
